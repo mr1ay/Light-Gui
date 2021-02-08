@@ -1,3 +1,7 @@
+::Mr1ay tarafından düzenlendi
+::Eski TheBatTeam Üyesi
+::Eski MoonBatchTeam Üyesi
+
 	@echo off
 	chcp 65001
 	mode 35,2
