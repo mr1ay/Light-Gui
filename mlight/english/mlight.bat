@@ -1,3 +1,8 @@
+::Edited by Mr1ay
+::Old TheBatTeam Member
+::Old MoonBatchTeam Member
+
+
 	@echo off
 	chcp 65001
 	mode 35,2
